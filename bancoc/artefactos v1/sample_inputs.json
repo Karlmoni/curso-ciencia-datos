@@ -1,0 +1,47 @@
+[
+  {
+    "Sexo": "Masculino",
+    "Trabajo dependiente": "No",
+    "Funcion principal": "Freelance",
+    "Nivel estudio": "Bachiller",
+    "Edad": 33,
+    "Antiguedad ultimo trabajo": 0,
+    "Ingreso mes": 3841
+  },
+  {
+    "Sexo": "Masculino",
+    "Trabajo dependiente": "Sí",
+    "Funcion principal": "Administrativo",
+    "Nivel estudio": "Magíster",
+    "Edad": 31,
+    "Antiguedad ultimo trabajo": 2,
+    "Ingreso mes": 5346
+  },
+  {
+    "Sexo": "Masculino",
+    "Trabajo dependiente": "No",
+    "Funcion principal": "Freelance",
+    "Nivel estudio": "Técnico",
+    "Edad": 48,
+    "Antiguedad ultimo trabajo": 7,
+    "Ingreso mes": 8000
+  },
+  {
+    "Sexo": "Masculino",
+    "Trabajo dependiente": "Sí",
+    "Funcion principal": "Administrativo",
+    "Nivel estudio": "Secundaria",
+    "Edad": 42,
+    "Antiguedad ultimo trabajo": 5,
+    "Ingreso mes": 4402
+  },
+  {
+    "Sexo": "Femenino",
+    "Trabajo dependiente": "Sí",
+    "Funcion principal": "Producción",
+    "Nivel estudio": "Bachiller",
+    "Edad": 32,
+    "Antiguedad ultimo trabajo": 4,
+    "Ingreso mes": 5804
+  }
+]

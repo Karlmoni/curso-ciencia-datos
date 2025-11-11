@@ -1,0 +1,31 @@
+{
+  "columns": [
+    "Sexo",
+    "Trabajo dependiente",
+    "Funcion principal",
+    "Nivel estudio",
+    "Edad",
+    "Antiguedad ultimo trabajo",
+    "Ingreso mes"
+  ],
+  "dtypes": {
+    "Sexo": "object",
+    "Trabajo dependiente": "object",
+    "Funcion principal": "object",
+    "Nivel estudio": "object",
+    "Edad": "int64",
+    "Antiguedad ultimo trabajo": "int64",
+    "Ingreso mes": "int64"
+  },
+  "num_features": [
+    "Edad",
+    "Antiguedad ultimo trabajo",
+    "Ingreso mes"
+  ],
+  "cat_features": [
+    "Sexo",
+    "Trabajo dependiente",
+    "Funcion principal",
+    "Nivel estudio"
+  ]
+}

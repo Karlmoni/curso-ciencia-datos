@@ -1,0 +1,32 @@
+[
+  {
+    "proba_POS": 0.3095575002671271,
+    "pred_num": 0,
+    "pred_label": "NEG",
+    "true": 0
+  },
+  {
+    "proba_POS": 0.5301396047308802,
+    "pred_num": 1,
+    "pred_label": "POS",
+    "true": 1
+  },
+  {
+    "proba_POS": 0.8348831197470067,
+    "pred_num": 1,
+    "pred_label": "POS",
+    "true": 1
+  },
+  {
+    "proba_POS": 0.2173155528449892,
+    "pred_num": 0,
+    "pred_label": "NEG",
+    "true": 0
+  },
+  {
+    "proba_POS": 0.6353183839229652,
+    "pred_num": 1,
+    "pred_label": "POS",
+    "true": 1
+  }
+]

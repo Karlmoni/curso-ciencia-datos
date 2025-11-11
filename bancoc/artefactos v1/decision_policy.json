@@ -1,0 +1,36 @@
+{
+  "winner": "RFS",
+  "threshold": 0.4799999999999999,
+  "test_metrics": {
+    "accuracy": 1.0,
+    "balanced_accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "mcc": 1.0,
+    "roc_auc": 1.0,
+    "pr_auc": 1.0
+  },
+  "confusion_matrix": [
+    [
+      6,
+      0
+    ],
+    [
+      0,
+      6
+    ]
+  ],
+  "class_names": [
+    "NEG(0)",
+    "POS(1)"
+  ],
+  "best_params": {
+    "model__bootstrap": true,
+    "model__max_depth": 7,
+    "model__max_features": "sqrt",
+    "model__min_samples_leaf": 7,
+    "model__min_samples_split": 12,
+    "model__n_estimators": 271
+  }
+}
